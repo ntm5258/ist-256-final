@@ -1,0 +1,67 @@
+{
+  "modern": [
+    {
+      "id": 1,
+      "title": "Modern Chair",
+      "price": 49.99,
+      "description": "Introducing our sleek black metal stool: minimalist design, maximum versatility. Crafted from durable metal, it offers reliable support for any task. Its compact size and lightweight construction make it perfect for small spaces or on-the-go use. Add a touch of modern elegance to your home or workspace today!",
+      "img_path": "images/modern/black-chair-1.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Modern Comfy Chair",
+      "price": 39.99,
+      "description": "Introducing our vibrant orange papasan chair: a cozy oasis of comfort and style. Sink into the plush cushion atop its sturdy rattan frame, offering relaxation and support. Its eye-catching orange hue adds a pop of color to any space, inviting you to unwind in unparalleled comfort.",
+      "img_path": "images/modern/modern-comfy.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Modern Sofa",
+      "price": 99.99,
+      "description": "\nIntroducing our elegant white couch: timeless sophistication meets modern comfort. Sink into its plush cushions and relax in style. With a sleek design and versatile color, it effortlessly complements any decor. Elevate your living space with this inviting centerpiece of relaxation and luxury.",
+      "img_path": "images/modern/modern-sofa.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Modern Dining Set",
+      "price": 50.99,
+      "description": "Introducing our chic white cushion table set: timeless elegance meets modern comfort. Featuring soft white cushions atop sturdy chairs and a matching table, it's perfect for dining or lounging. Elevate your space with this stylish and versatile set, blending seamlessly into any décor scheme.",
+      "img_path": "images/modern/modern_dining_set.jpeg"
+    }
+
+  ],
+  "rustic": [
+    {
+      "id": 1,
+      "title": "Old Fashioned Chair Set",
+      "price": 29.99,
+      "description": "\nIntroducing our charming old-fashioned metal frame chair set: a nod to vintage elegance. Crafted with sturdy metal frames and classic design, these chairs evoke nostalgia while providing durable seating. Perfect for adding character to your space, indoors or out, with timeless style and reliability.",
+      "img_path": "images/rustic/rustic_chairs_1.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Old Fashioned Couch Set",
+      "price": 99.99,
+      "description": "Introducing our vintage-inspired maroon leather couch set: a luxurious retreat with timeless appeal. Crafted from supple leather, each piece exudes elegance and durability. Sink into plush cushions and enjoy unparalleled comfort. Elevate your space with this sophisticated ensemble, blending classic design with modern comfort.",
+      "img_path": "images/rustic/rustic_couch_set.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Old Fashioned Chair",
+      "price": 19.99,
+      "description": "Introducing our retro-inspired orange cushion chair: a vibrant addition to any space. With its classic design and plush orange cushions, this chair brings a pop of color and comfort to your home. Crafted for durability and style, it's a cozy seat with a nostalgic flair.",
+      "img_path": "images/rustic/rustic_red_chair.jpeg"
+    }
+  ],
+  "industrial": [
+    {
+      "id": 1,
+      "title": "Barber Chairs",
+      "price": 39.99,
+      "description": "Out of use barber chairs",
+      "img_path": "images/industrial/barber-chairs.jpeg"
+    }
+  ]
+
+}
+
